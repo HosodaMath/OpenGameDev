@@ -1,6 +1,6 @@
 # OpenGameDev
 
-## FlapyBird Like Game
+## FlappyBird Like Game
 
 ### Implementation Language and Framework
 
