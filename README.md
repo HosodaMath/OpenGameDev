@@ -5,7 +5,6 @@
 ### Implementation Language and Framework
 
 - [ ] p5js(TypeScript)
-- [ ] Processing(Java)
 - [ ] ThreeJs(TypeScript)
 - [ ] PixiJs(TypeScript)
 - [ ] WebGL(Original Engine(TypeScript))
